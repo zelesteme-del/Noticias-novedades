@@ -60,11 +60,11 @@ src="https://www.youtube.com/embed/hmCcz5KqMDA"
 frameborder="0"
 allowfullscreen>
 </iframe>
-        <!-- Audio -->
         <h3>Audio</h3>
-        <audio controls>
-            <source src="https://music.youtube.com/watch?v=qoxt6J9UpK4&si=aBZJToDCJMR8NHFb" type="audio/mpeg">
-        </audio>
+
+<audio controls>
+    <source src="audio.mp3" type="audio/mpeg">
+</audio>
     </section>
 
     <!-- Sección Deporte -->
