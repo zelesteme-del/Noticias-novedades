@@ -10,7 +10,7 @@
     <!-- Portada -->
     <header>
         <h1>El Faro</h1>
-        <img src="https://png.pngtree.com/png-clipart/20241114/original/pngtree-golden-puzzle-piece-3d-render-clipart-illustration-png-image_17073309.png" alt="Logo del periódico" width="150">
+        <img src="https://png.pngtree.com/png-clipart/20241114/original/pngtree-golden-puzzle-piece-3d-render-clipart-illustration-png-image_17073309.png" alt="Logo" width="150">
     </header>
 
     <!-- Menú -->
