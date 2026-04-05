@@ -25,24 +25,21 @@
         <table border="1">
             <tr>
                 <th>Noticia</th>
-                <th>Categoría</th>
                 <th>Contenido</th>
             </tr>
             <tr>
                 <td>Cambio de hora</td>
-                <td>Actualidad</td>
                 <td>Este sabado 4 de Abril se atrasa la hora, A las 23:59 deberas retrasar 60 minutos tu reloj</td>
                 <img src="![WhatsApp Image 2026-04-05 at 19 06 04](https://github.com/user-attachments/assets/aa5b5e0c-0e17-469c-bbd8-f6d89e22ae75)
 " alt="Logo" width="150">
             </tr>
             <tr>
-                <td>Noticia 2</td>
-                <td>Actualidad</td>
-                <td>Texto de ejemplo...</td>
+                <td>Siniestro Vial</td>
+                <td>Condictores nos reportan un siniestro vial en la ruta 5 sur, km 725, direccion de norte a sur, sector Rotonda Sexta Fja. 
+                Se sugiere conducir con Màxima Precaución</td>
             </tr>
             <tr>
                 <td>Noticia 3</td>
-                <td>Actualidad</td>
                 <td>Texto de ejemplo...</td>
             </tr>
         </table>
