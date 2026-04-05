@@ -69,28 +69,28 @@ allowfullscreen>
 
     <!-- Sección Deporte -->
     <section id="deporte">
-        <h2>Deportes</h2>
+        <h2>Futbol semanal Chile</h2>
 
         <table border="1">
             <tr>
-                <th>Título</th>
-                <th>Categoría</th>
-                <th>Contenido</th>
+                <th>Partido</th>
+                <th>Hora</th>
+                <th>Tv/ Lugar</th>
             </tr>
             <tr>
-                <td>Partido importante</td>
-                <td>Fútbol</td>
-                <td>Texto de ejemplo...</td>
+                <td>HUA V/S UdeC</td>
+                <td> Lunes 6 de Abril. 8PM </td>
+                <td>Estadio Huachipato-CAP Acero, Talcahuano, Chile</td>
             </tr>
             <tr>
-                <td>Noticia 2</td>
-                <td>Deporte</td>
-                <td>Texto...</td>
+                <td>LSE V/S EVE</td>
+                <td> Sabado 11 de Abril. 3PM </td>
+                <td>Estadio La Portada, Estadio La Portada, Chile</td>
             </tr>
             <tr>
-                <td>Noticia 3</td>
-                <td>Deporte</td>
-                <td>Texto...</td>
+                <td>PAL V/S LIM</td>
+                <td> Sabado 11 de Abril. 8PM </td>
+                <td>Estadio Municipal La Cisterna, Santiago, Chile</td>
             </tr>
         </table>
     </section>
