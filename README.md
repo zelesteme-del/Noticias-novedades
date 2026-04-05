@@ -29,8 +29,7 @@
             </tr>
             <tr>
                 <td>Cambio de hora</td>
-                <td>Este sabado 4 de Abril se atrasa la hora, A las 23:59 deberas retrasar 60 minutos tu reloj <img src="![WhatsApp Image 2026-04-05 at 19 06 04](https://github.com/user-attachments/assets/aa5b5e0c-0e17-469c-bbd8-f6d89e22ae75)
-" alt="Logo" width="150"></td>
+                <td>Este sabado 4 de Abril se atrasa la hora, A las 23:59 deberas retrasar 60 minutos tu reloj</td>
             </tr>
             <tr>
                 <td>Siniestro Vial</td>
@@ -38,8 +37,19 @@
                 Se sugiere conducir con Màxima Precaución</td>
             </tr>
             <tr>
-                <td>Noticia 3</td>
-                <td>Texto de ejemplo...</td>
+                <td>Paso fronterizo Mamuil Malal</td>
+                <td>Fecha 05/04/2026
+*Reporte N°1*
+Estado: HABILITADO ✅️
+para buses y vehículos menores.
+
+Horario atencion 🕗 
+Salida de Chile: 08:00 a 17:00
+Ingreso a Chile: 08:00 a 18:00
+
+
+ Clima:
+Despejado</td>
             </tr>
         </table>
 
