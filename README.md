@@ -53,12 +53,13 @@ Despejado</td>
             </tr>
         </table>
 
-        <!-- Espectaculo Enjoy Pucón 2026 -->
-        <h3>Video</h3>
-        <video width="320" controls>
-            <source src="https://youtu.be/hmCcz5KqMDA?si=rn_ZkIteaqB3fqu0" type="video/mp4">
-        </video>
+    <h3>Espectaculo Enjoy Pucón 2026</h3>
 
+<iframe width="320" height="240"
+src="https://www.youtube.com/embed/hmCcz5KqMDA"
+frameborder="0"
+allowfullscreen>
+</iframe>
         <!-- Audio -->
         <h3>Audio</h3>
         <audio controls>
