@@ -29,9 +29,11 @@
                 <th>Contenido</th>
             </tr>
             <tr>
-                <td>Cambio de hora 1</td>
+                <td>Cambio de hora</td>
                 <td>Actualidad</td>
                 <td>Este sabado 4 de Abril se atrasa la hora, A las 23:59 deberas retrasar 60 minutos tu reloj</td>
+                <img src="![WhatsApp Image 2026-04-05 at 19 06 04](https://github.com/user-attachments/assets/aa5b5e0c-0e17-469c-bbd8-f6d89e22ae75)
+" alt="Logo" width="150">
             </tr>
             <tr>
                 <td>Noticia 2</td>
