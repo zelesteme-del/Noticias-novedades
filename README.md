@@ -63,7 +63,7 @@ allowfullscreen>
         <h3>Audio</h3>
 
 <audio controls>
-    <source src="https://github.com/zelesteme-del/Noticias-novedades/blob/main/Jos%C3%A9%20Antonio%20Kast%2C%20nuevo%20presidente%20de%20Chile_%20oportunidades%20y%20riesgos.mp3" type="audio/mpeg">
+    <source src="José Antonio Kast, nuevo presidente de Chile_ oportunidades y riesgos.mp3" type="audio/mpeg">
 </audio>
     </section>
 
