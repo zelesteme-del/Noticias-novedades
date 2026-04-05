@@ -24,14 +24,14 @@
 
         <table border="1">
             <tr>
-                <th>Título</th>
+                <th>Noticia</th>
                 <th>Categoría</th>
                 <th>Contenido</th>
             </tr>
             <tr>
-                <td>Noticia 1</td>
+                <td>Cambio de hora 1</td>
                 <td>Actualidad</td>
-                <td>Texto de ejemplo...</td>
+                <td>Este sabado 4 de Abril se atrasa la hora, A las 23:59 deberas retrasar 60 minutos tu reloj</td>
             </tr>
             <tr>
                 <td>Noticia 2</td>
@@ -60,7 +60,7 @@
 
     <!-- Sección Deporte -->
     <section id="deporte">
-        <h2>Noticias Deportivas</h2>
+        <h2>Deportes</h2>
 
         <table border="1">
             <tr>
