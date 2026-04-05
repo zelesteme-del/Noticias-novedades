@@ -13,9 +13,9 @@
 
     <!-- Menú -->
     <nav>
-        <a href="#inicio">Inicio</a>
-        <a href="#deporte">Deporte</a>
-        <a href="#negocios">Negocios</a>
+    <a href="#inicio" style="font-size: 24px;">Inicio</a> |
+    <a href="#deporte" style="font-size: 24px;">Deporte</a> |
+    <a href="#negocios" style="font-size: 24px;">Negocios</a> 
     </nav>
 
     <!-- Sección Inicio -->
