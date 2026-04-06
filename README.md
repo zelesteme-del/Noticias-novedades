@@ -120,11 +120,6 @@ El alza se aplicará cada cuatro semanas según el ajuste del Mecanismo de Estab
 </td>
             </tr>
             <tr>
-                <td>Emprendimiento 3</td>
-                <td>Texto...</td>
+                <td>MUNICIPALIDAD DE PUCÓN LANZA PROGRAMA “PUCÓN EMPRENDE” PARA FORTALECER EL ECOSISTEMA LOCAL DE EMPRENDEDORES</td>
+                <td>En el marco del Día Mundial del Emprendimiento, el Centro de Desarrollo de Negocios (CDN) de la Municipalidad de Pucón presentó oficialmente su nuevo programa “Pucón Emprende”, una iniciativa orientada a capacitar y potenciar a los emprendedores de la comuna. El proyecto, impulsado por el alcalde Sebastián Álvarez Ramírez, busca reactivar la economía local y generar un impacto significativo en el desarrollo económico regional.</td>
             </tr>
-        </table>
-    </section>
-
-</body>
-</html>
