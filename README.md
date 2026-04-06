@@ -113,7 +113,6 @@ allowfullscreen>
                 <td>Dólar opera al alza y vuelve a los $860 en medio de caída del cobre y previo al IPC de EE.UU</td>
                 <td> Noticia Internacional</td>
                 <td>El dólar abrió este viernes al alza en el mercado cambiario local, en una jornada marcada por la presión bajista del cobre y un tono algo más firme del billete verde a nivel internacional, en la antesala de datos de inflación en Estados Unidos.
-            </tr>
             <tr>
                 <td>Desde el 26 de marzo de 2026, la gasolina y el diésel en Chile registran un aumento histórico, con medidas de mitigación para los sectores más afectados.</td>
                 <td> Noticia Nacional</td>
