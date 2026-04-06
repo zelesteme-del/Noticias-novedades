@@ -101,23 +101,21 @@ allowfullscreen>
 
         <table border="1">
             <tr>
-                <th>Título</th>
-                <th>Categoría</th>
+                <th>Titúlo</th>
                 <th>Contenido</th>
             </tr>
             <tr>
-                <td>Emprendimiento 1</td>
-                <td>Negocios</td>
-                <td>Texto...</td>
+                <td>Dólar opera al alza y vuelve a los $860 en medio de caída del cobre y previo al IPC de EE.UU</td>
+                <td>El dólar abrió este viernes al alza en el mercado cambiario local, en una jornada marcada por la presión bajista del cobre y un tono algo más firme del billete verde a nivel internacional, en la antesala de datos de inflación en Estados Unidos.
+
+Fuente: Emol.com - https://www.emol.com/noticias/Economia/2026/02/13/1191409/dolar-mercado-cambiario-local.html</td>
             </tr>
             <tr>
                 <td>Emprendimiento 2</td>
-                <td>Negocios</td>
                 <td>Texto...</td>
             </tr>
             <tr>
                 <td>Emprendimiento 3</td>
-                <td>Negocios</td>
                 <td>Texto...</td>
             </tr>
         </table>
