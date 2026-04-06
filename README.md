@@ -107,12 +107,17 @@ allowfullscreen>
             <tr>
                 <td>Dólar opera al alza y vuelve a los $860 en medio de caída del cobre y previo al IPC de EE.UU</td>
                 <td>El dólar abrió este viernes al alza en el mercado cambiario local, en una jornada marcada por la presión bajista del cobre y un tono algo más firme del billete verde a nivel internacional, en la antesala de datos de inflación en Estados Unidos.
-
-Fuente: Emol.com - https://www.emol.com/noticias/Economia/2026/02/13/1191409/dolar-mercado-cambiario-local.html</td>
             </tr>
             <tr>
-                <td>Emprendimiento 2</td>
-                <td>Texto...</td>
+                <td>Desde el 26 de marzo de 2026, la gasolina y el diésel en Chile registran un aumento histórico, con medidas de mitigación para los sectores más afectados.</td>
+                <td>El alza de combustibles responde a la crisis internacional del petróleo y a la guerra en Medio Oriente, que ha elevado los precios globales del crudo. Los incrementos confirmados son: 
+Gasolina de 93 octanos: +$392 por litro, promedio en la Región Metropolitana $1.541. 
+Gasolina de 97 octanos: +$391 por litro. 
+Diésel: +$580 por litro, alcanzando $1.512 en promedio. 
+Parafina (kerosene): incremento de $138,5 por litro. 
+GLP vehicular: aumento de $11 por litro. 
+El alza se aplicará cada cuatro semanas según el ajuste del Mecanismo de Estabilización de Precios de los Combustibles (Mepco), que busca suavizar los efectos del incremento internacional. 
+</td>
             </tr>
             <tr>
                 <td>Emprendimiento 3</td>
